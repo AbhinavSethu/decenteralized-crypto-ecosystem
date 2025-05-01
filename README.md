@@ -1,4 +1,4 @@
-# Crypto Trading Platform
+# Dencentralized Crypto Ecosystem
 
 A mock cryptocurrency trading platform built using Next.js, Tailwind CSS, Node.js (Express), and MongoDB. This platform allows users to trade virtual cryptocurrencies, track their portfolio, and view real-time market data. Admins can manage trades, update prices, and oversee transactions.
 
